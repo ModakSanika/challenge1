@@ -1,6 +1,6 @@
-#Projects related to DOM
+# Projects related to DOM
 
-#Solution Code
+# Solution Code
 
 ## project 1: ColorChanger
 
